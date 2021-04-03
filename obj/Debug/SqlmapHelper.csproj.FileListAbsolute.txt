@@ -1,0 +1,10 @@
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\bin\Debug\SqlmapHelper.exe.config
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\bin\Debug\SqlmapHelper.exe
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\bin\Debug\SqlmapHelper.pdb
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\obj\Debug\SqlmapHelper.csproj.CoreCompileInputs.cache
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\obj\Debug\SqlmapHelper.csproj.CopyComplete
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\obj\Debug\SqlmapHelper.exe
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\obj\Debug\SqlmapHelper.pdb
+C:\Users\clot\source\repos\SqlXssScan\SqlmapHelper\obj\Debug\SqlmapHelper.csprojAssemblyReference.cache
